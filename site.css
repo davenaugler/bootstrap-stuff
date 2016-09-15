@@ -1,0 +1,8 @@
+*{
+    outline: 1px solid red;
+    /*we use outline and not border because border adds widths. Outline does not change the width of any elements.*/
+}
+
+/*.bg-yellow{
+    background-color: yellow;
+}*/
